@@ -25,7 +25,7 @@ function App() {
     employeeName="Ayoub" employeeLang="java" employeeexper={14}
     employeeName1="Ahmad" employeeLang1="C++" employeeexper1={8}
     employeeName2="Ali" employeeLang2="Python" employeeexper2={3}
-    service="programming ,Softwears" price={3000}
+    service="programming ,Softwears" price={3000} 
     />
     
 
